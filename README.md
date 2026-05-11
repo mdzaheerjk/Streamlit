@@ -1,5 +1,5 @@
 # 🚀 Streamlit: Complete Notes — Beginner to Advanced (AI/ML Focus)
- 
+  
 > **What is Streamlit?**
 > Streamlit is an open-source Python framework that lets you turn data scripts into shareable web apps in minutes — no HTML, CSS, or JavaScript required. It's the #1 choice for AI/ML engineers to demo models, build dashboards, and create interactive tools.
 
